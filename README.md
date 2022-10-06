@@ -1,2 +1,2 @@
-# DIG4715-Spring2021-0377
-Template for Game Production
+# GaiMUnityTemplate
+Standard template for Unity projects with some basic features (Unity gitignore, GitLFS, etc.)
